@@ -4,8 +4,11 @@ java设计模式demo，23种设计模式
 开发者须知，开发规范
 
 1.[六大设计原则之里氏替换原则-by-陈礼松](https://blog.csdn.net/a291382932/article/details/52851119)
+
 2.[六大设计原则之单一职责-by-陈礼松](https://blog.csdn.net/a291382932/article/details/52843842)
+
 3.[一些设计上的基本常识-by-梁飞](http://javatar.iteye.com/blog/706098)
+
 4.[谈谈扩充式扩展与增量式扩展-by-梁飞](http://javatar.iteye.com/blog/690845)
 
 # 快速开始
