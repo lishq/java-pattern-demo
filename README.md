@@ -1,5 +1,4 @@
-# java-pattern-demo
-java设计模式demo，23种设计模式
+# Java设计模式demo，23种设计模式
 
 开发者须知，开发规范
 
