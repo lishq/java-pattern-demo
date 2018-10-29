@@ -4,15 +4,15 @@
 
 * Markdown不支持新窗口跳转，可以通过鼠标右键【在新标签页中打开链接】增加阅读体验
 
-1.[部分设计模式demo参考-陈礼松](https://blog.csdn.net/a291382932/article/details/52809355)
+1.[设计模式总结](http://blog.tolvyou.cn/2018/10/29/design-mode-review)
 
-2.[设计模式总结](http://blog.tolvyou.cn/2018/10/29/design-mode-review)
+2.[框架设计原则](http://blog.tolvyou.cn/2018/10/27/design-framework-principles)
 
-3.[框架设计原则](http://blog.tolvyou.cn/2018/10/27/design-framework-principles)
+3.[一些设计上的基本常识-by-梁飞](http://javatar.iteye.com/blog/706098)
 
-4.[一些设计上的基本常识-by-梁飞](http://javatar.iteye.com/blog/706098)
+4.[谈谈扩充式扩展与增量式扩展-by-梁飞](http://javatar.iteye.com/blog/690845)
 
-5.[谈谈扩充式扩展与增量式扩展-by-梁飞](http://javatar.iteye.com/blog/690845)
+5.[部分设计模式demo参考-陈礼松](https://blog.csdn.net/a291382932/article/details/52809355)
 
 
 # 快速开始
